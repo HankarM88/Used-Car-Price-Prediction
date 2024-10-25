@@ -1,0 +1,5 @@
+2024-10-24 19:55:55,495 - INFO - Training GradientBoostingRegressor(loss='huber', max_depth=6)
+2024-10-24 19:55:58,696 - INFO - Training is completed sucessefully!
+2024-10-24 19:55:58,738 - INFO - Results: {'Mark': {0: 'Peugeot'}, 'Model': {0: '508'}, 'Production Year': {0: 2007}, 'Mileage': {0: 150000.0}, 'Fuel Type': {0: 'Diesel'}, 'Fiscal Power': {0: 7}, 'Predicted Price': {0: 6784.32}}
+2024-10-24 19:59:29,006 - INFO - Training GradientBoostingRegressor(loss='huber', max_depth=6)
+2024-10-24 19:59:32,369 - INFO - Training is completed sucessefully!
