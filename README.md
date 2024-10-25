@@ -23,7 +23,7 @@ In this project, we aim to estimate the pricing value of used cars using machine
    ```
 ### Research Paper
 M. Hankar, M. Birjali and A. Beni-Hssane, "Used Car Price Prediction using Machine Learning: A Case Study," 2022 11th International Symposium on Signal, Image, Video and Communications (ISIVC), El Jadida, Morocco, 2022, pp. 1-4
-DOI: 10.1109/ISIVC54825.2022.9800719.
+[Link to Paper](https://doi.org/10.1109/ISIVC54825.2022.9800719)
 ### Future Enhancements
 - Adding more features to improve the model accuracy.
 - Integrating with other APIs for real-time data updates.
